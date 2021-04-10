@@ -1,0 +1,12 @@
+[1mdiff --git a/git.html b/git.html[m
+[1mindex f721883..23071c9 100644[m
+[1m--- a/git.html[m
+[1m+++ b/git.html[m
+[36m@@ -26,6 +26,7 @@[m
+    *    git log -p 简化版本信息[m
+    *    git reflog 查看所有历史记录[m
+    *    git rest --hard 版本号(hash值)[m
+[32m+[m[32m   *    git[m
+    */[m
+ [m
+ [m
